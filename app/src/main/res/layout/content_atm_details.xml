@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/content_top_tracks"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="5dp"
+    android:paddingLeft="5dp"
+    android:paddingRight="5dp"
+    android:paddingTop="5dp"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.satish.atmfinder.activity.ATMDetailsActivity"
+    tools:showIn="@layout/activity_atm_details">
+
+    <TextView
+        android:text=""
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:gravity="center_vertical"
+        android:id="@+id/atmAddress"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textSize="25sp"
+        />
+
+    <TextView
+        android:text=""
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/atmAddress"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="10dp"
+        android:gravity="center_vertical"
+        android:id="@+id/atmPhone"
+        android:textSize="18sp"
+        />
+
+    <TextView
+        android:text=""
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/atmPhone"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="10dp"
+        android:gravity="center_vertical"
+        android:id="@+id/atmType"
+        android:textSize="18sp"
+        />
+
+    <TextView
+        android:text="Lobby Hours"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/atmType"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="10dp"
+        android:gravity="center_vertical"
+        android:id="@+id/lobbyHoursTitle"
+        android:textSize="20sp"
+        android:textStyle="normal|bold"
+        />
+
+    <TextView
+        android:text=""
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/lobbyHoursTitle"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="10dp"
+        android:gravity="center_vertical"
+        android:textSize="18sp"
+        android:id="@+id/lobbyHours"
+        />
+</RelativeLayout>

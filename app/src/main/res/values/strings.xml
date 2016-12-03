@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ATM Finder</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_atm_finder">ATMFinderActivity</string>
+    <string name="title_activity_atm_details">ATMDetailsActivity</string>
+    <string name="error_atm_not_found">Sorry !! could not find any ATMs near you.</string>
+    <string name="error_location_not_enabled">Please enable the location services.</string>
+    <string name="error_no_information">No information available.</string>
+    <string name="error_location_permission_denied">This app needs permission to access your location.</string>
+    <string name="message_go_to_settings">Go to Settings.</string>
+</resources>

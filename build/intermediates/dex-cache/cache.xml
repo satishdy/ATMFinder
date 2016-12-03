@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/satish/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/satish/Downloads/ATMFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_9c5ce2424ccd5878167de7f9b26ce6d7543ea08c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satish/Downloads/ATMFinder/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/satish/Downloads/ATMFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_536b74bdcbe5e2e04b4541cedad3181d73e76f9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satish/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/satish/Downloads/ATMFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_80189755b6d178700f4c5c09d52af59a1687bee4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satish/Downloads/ATMFinder/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/satish/Downloads/ATMFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_9fd2d6979ceae9a94786a4766448c2c5521c4451/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satish/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/satish/Downloads/ATMFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_63f6c7203eb0a2473d8ab2a1f8e0767242d67052/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satish/Downloads/ATMFinder/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/satish/Downloads/ATMFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_04afd5288bf8ed25afdec8fd50d58cdd519abdda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satish/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/Users/satish/Downloads/ATMFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.2_a142ec13f2600b7fbabff40d2a872dfd618b31cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satish/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/satish/Downloads/ATMFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_18d4376e98238a65cfc6b887610647237957df9b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satish/Downloads/ATMFinder/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/satish/Downloads/ATMFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_b389d77f2e5fd24920a3f1a0570dd8c59b40b2fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satish/Downloads/ATMFinder/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/satish/Downloads/ATMFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_092db08085400316a7cf011a443a9ba5159e8d72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satish/Downloads/ATMFinder/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8b4fe63af999b5ea78d99702a49d6f0f5c462a8b">
+        <dex dex="/Users/satish/Downloads/ATMFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c126a1fe68474d65b17c65d07dbf04f309e2a64a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satish/Downloads/ATMFinder/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/satish/Downloads/ATMFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_0c532e198da449031d416d6cc9dcb15d30736262/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satish/.gradle/caches/modules-2/files-2.1/javax.annotation/jsr250-api/1.0/5025422767732a1ab45d93abfea846513d742dcf/jsr250-api-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5025422767732a1ab45d93abfea846513d742dcf">
+        <dex dex="/Users/satish/Downloads/ATMFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr250-api-1.0_84bd12ba1f758b449556d1e055034fb21ae2250d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satish/Downloads/ATMFinder/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/satish/Downloads/ATMFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_8e770f6a910ec1c05a3e4ace4441111fae5f8eb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satish/Downloads/ATMFinder/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/satish/Downloads/ATMFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.1_c8446ee1810dfcca45b83ce654cd819b015a2d75/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satish/Downloads/ATMFinder/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/satish/Downloads/ATMFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_44bf79274c8a919ada13a364708e00ce39006eeb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satish/Downloads/ATMFinder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/satish/Downloads/ATMFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_9abbc49c5f8dbff870100f369c5c59f96c51afc4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satish/Downloads/ATMFinder/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/satish/Downloads/ATMFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.1_d4097ee91aae322544865f5ab7304585223be5a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satish/Downloads/ATMFinder/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/satish/Downloads/ATMFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.1_d87bf19d1425c1162f507fd578bafd04bac3094e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satish/Downloads/ATMFinder/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/satish/Downloads/ATMFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_7c53a5b8739c9d86b23f7e5d3f28fcefe63db8e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satish/Downloads/ATMFinder/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/satish/Downloads/ATMFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_c1bb00309bf3d73e30e2362a0e59159b78915f72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satish/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/Users/satish/Downloads/ATMFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.2_122697b81e2cd3f5ea8aa171c90d0a805a4ec7db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satish/Downloads/ATMFinder/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5692616b1ba8dc5767d9e03a2ee3a3e3cd54472b">
+        <dex dex="/Users/satish/Downloads/ATMFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c0177ec591073e28e96f740fa7866faf044a7a57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satish/Downloads/ATMFinder/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/satish/Downloads/ATMFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_6ea7192b9c41a280675d4f07f8c77abd9f666f8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satish/Downloads/ATMFinder/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/satish/Downloads/ATMFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_6f16a68ead9fb7f28858b393724dbd1ac67536d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satish/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/Users/satish/Downloads/ATMFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.1_f1909fd97bee4df3cd81540d59f7bbe7f932b734/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/satish/Downloads/ATMFinder/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/satish/Downloads/ATMFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_71cd7819bd707b49bacc90dcbe9135b47c8e23e0/classes.dex" />
+    </item>
+
+</items>
